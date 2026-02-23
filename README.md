@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Software developer with a unique multidisciplinary background in Mathematics, Computer Science, and Political Science. Possesses a strong foundation in full-stack development, data analytics, and Robotic Process Automation (RPA). Passionate about building scalable RESTful APIs using modern technologies like C#, Python, and Node.js to optimize business processes. Driven by analytical problem-solving to deliver data-centric, efficient, and sustainable technological solutions.
 
 
